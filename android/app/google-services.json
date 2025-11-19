@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415267844288",
+    "project_id": "mvp-builder-529af",
+    "storage_bucket": "mvp-builder-529af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415267844288:android:78589aa19fb7fe85c87d25",
+        "android_client_info": {
+          "package_name": "com.example.mvp_builder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFaeY-nzpsuTj26fjVJaJgKjrbImz-8PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
